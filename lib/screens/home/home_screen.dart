@@ -4,7 +4,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:stream_app/screens/home/widgets/home_categories_widget.dart';
 import 'package:stream_app/screens/home/widgets/home_container_profile_widget.dart';
